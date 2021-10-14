@@ -1,2 +1,2 @@
 # dateTime
-Date Time Functions
+Date Time Functions exercises
